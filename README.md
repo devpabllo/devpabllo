@@ -14,7 +14,7 @@
   <img align="center" alt="pabllo-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="pabllo-leo.ai" height="30" width="40" src="https://leonardo-cdn.b-cdn.net/wp-content/uploads/2022/11/leaonardo-logo.svg">
   <img align="center" alt="pabllo-jscript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
-  <img align="right" alt="pabllo-gif" height="80" width="80" src="https://media.discordapp.net/attachments/1087532754356408345/1098618180626300969/p1.gif">
+  <img align="right" alt="pabllo-gif" height="80" width="80" src="https://media.discordapp.net/attachments/1087532754356408345/1098618180626300969/p1.gif?width=473&height=473">
   
 </div>
 
