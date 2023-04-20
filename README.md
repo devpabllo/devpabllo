@@ -5,7 +5,7 @@
 
 <div>
 <a href="https://github.com/devpabllo">
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=devpabllo&show_icons=true&theme=onedark&include_all_commits-true&count_private-true"/>  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devpabllo&layout=compact&langs_count-16&theme=onedark"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=devpabllo&show_icons=true&theme=onedark&include_all_commits-true&count_private-true"/> <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devpabllo&layout=compact&langs_count-16&theme=onedark"/>
 </div>
 
 <div style="display: inLine_block"><br>
@@ -14,8 +14,6 @@
   <img align="center" alt="pabllo-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="pabllo-leo.ai" height="30" width="40" src="https://leonardo-cdn.b-cdn.net/wp-content/uploads/2022/11/leaonardo-logo.svg">
   <img align="center" alt="pabllo-jscript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
-  <img align="right" alt="pabllo-gif" height="80" width="80" src="https://media.discordapp.net/attachments/1087532754356408345/1098618180626300969/p1.gif?width=473&height=473">
-  
 </div>
 
 #
@@ -42,7 +40,7 @@
 
 #
   
-👨‍💻 "Como programador, você é um criador de universos digitais, capaz de dar vida a ideias abstratas e transformá-las em soluções que impactam positivamente a vida das pessoas. Continue programando com paixão e dedicação, pois seu trabalho pode mudar o mundo!" 👩‍💻
+👨‍💻 "Como programador, você é um criador de universos digitais, capaz de dar vida a ideias abstratas e transformá-las em soluções que impactam positivamente a vida das pessoas. Continue programando com paixão e dedicação, pois seu trabalho pode mudar o mundo!"
 
 #
 
