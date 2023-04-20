@@ -40,7 +40,7 @@
 
 #
   
-👨‍💻 "Como programador, você é um criador de universos digitais, capaz de dar vida a ideias abstratas e transformá-las em soluções que impactam positivamente a vida das pessoas. Continue programando com paixão e dedicação, pois seu trabalho pode mudar o mundo!"
+"Como programador, você é um criador de universos digitais, capaz de dar vida a ideias abstratas e transformá-las em soluções que impactam positivamente a vida das pessoas. Continue programando com paixão e dedicação, pois seu trabalho pode mudar o mundo!" 🔥
 
 #
 
