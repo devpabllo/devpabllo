@@ -4,8 +4,9 @@
 - ⚡ 2023 o ano em que estou mudando a minha vida!
 
 <div>
-<a href="https://github.com/devpabllo">
-<img height="130em" src="https://github-readme-stats.vercel.app/api?username=devpabllo&show_icons=true&theme=onedark&include_all_commits-true&count_private-true&locale=pt-br"/>  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devpabllo&layout=compact&langs_count-16&theme=onedark&locale=pt-br"/>
+<a href="https://github.com/Devpabllo">
+<img height="130em" src="https://github-readme-stats.vercel.app/api?username=devpabllo&show_icons=true&theme=onedark&include_all_commits-true&count_private-true&locale=pt-br"/>  
+<img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devpabllo&layout=compact&langs_count-16&theme=onedark&locale=pt-br"/>
 </div>
 
 <div style="display: inLine_block"><br>
