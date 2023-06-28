@@ -1,4 +1,3 @@
-#
 ### Fala galera! me chamo Pablo Marques! 🤚
 - 🔭 Hoje eu sou um entusiasta e iniciante na area da programação!
 - 🌱 estou aprendendo vairas coisas, em especial Python e Games.
